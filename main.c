@@ -1,10 +1,10 @@
 /*
  *--------------------------------------
- * Program Name: RubEX
+ * Program Name: Off
  * Author: LogicalJoe, who else?
- * Copyright: Copyright (C) 2017-2019 LogicalJoe
+ * Copyright: Copyright (C) 2019 LogicalJoe
  * License: LJL General Public License
- * Description: v2.3 of the original RubEX program (which was in ICE) in C
+ * Description: None
  *--------------------------------------
  */
 /* Keep these headers */
